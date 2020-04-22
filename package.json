@@ -1,0 +1,12 @@
+{
+  "name": "actions-vizualizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tailwindcss build styles.css -o output.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.3.4"
+  }
+}
